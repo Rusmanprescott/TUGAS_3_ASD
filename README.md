@@ -1,1 +1,19 @@
 # TUGAS_3_ASD
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/MainStackGeneric.java - MainStackGeneric
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/StackGeneric.java - StackGeneric
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/arrayListDouble.java - arrayListDouble
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/arrayListFloat.java - arrayListFloat
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/arrayListInteger.java - arrayListInteger
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/arrayListString.java - arrayListString
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/mainQueueDouble.java - mainQueueDouble
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/mainQueueFloat.java - mainQueueFloat
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/mainQueueString.java - mainQueueString
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/mainStackDouble.java - mainStackDouble
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/mainStackFloat.java - mainStackFloat
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/mainStackString.java - mainStackString
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/queueDouble.java - queueDouble
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/queueFloat.java - queueFloat
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/queueString.java - queueString
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/stackDouble.java - stackDouble
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/stackFloat.java - stackFloat
+https://github.com/Rusmanprescott/TUGAS_3_ASD/blob/master/stackString.java - stackString
